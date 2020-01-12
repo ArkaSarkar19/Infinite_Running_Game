@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 28d5a8757e3f95c479a783ba734544be
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - aftermautobj: {fileID: 6267065988928761092, guid: 5c73ca5885c679b4ca0216e38eb5b3d7,
+      type: 3}
+  - ScoreText: {instanceID: 0}
+  - CoinsText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

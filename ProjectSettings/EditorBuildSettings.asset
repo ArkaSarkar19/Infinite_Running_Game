@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/6e140dd12772aba47887ae5e809c2772
+    guid: 6e140dd12772aba47887ae5e809c2772
+  - enabled: 1
+    path: Assets/mainmenu.unity
+    guid: 0ee48c81f3ba22f4da42cc9c9cd7fb22
+  - enabled: 1
+    path: Assets/level1a.unity
+    guid: f8796fb69b090394eaa9652124806616
+  - enabled: 1
+    path: Assets/level1b.unity
+    guid: 43adbb29bef423f4793470a4e4736890
+  - enabled: 1
+    path: Assets/levelcomplete.unity
+    guid: c96993608c5f324419bf09da051cf015
+  - enabled: 1
+    path: Assets/levelincomplete.unity
+    guid: 48f89ae43a5d86447a7169fb81d5a12e
+  - enabled: 1
+    path: Assets/ons.unity
+    guid: d973246603831f94195e3ab29e45b6f3
+  - enabled: 1
+    path: Assets/op1.unity
+    guid: 2c6fcb72e5bf1fe4aa2a84cc81010ee1
+  - enabled: 1
+    path: Assets/gyr.unity
+    guid: c56d5b9162a649c4db59a54d41915a6c
+  - enabled: 1
+    path: Assets/how.unity
+    guid: d4f8b7ca68e682e448662a6d14efa980
+  - enabled: 1
+    path: Assets/difficult.unity
+    guid: de7cd3353f8231942a1b0910b11b13db
+  m_configObjects: {}

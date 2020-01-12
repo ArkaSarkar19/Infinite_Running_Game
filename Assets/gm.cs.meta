@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b1d81714daa8d594ca62c3c6aaf8119a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - chuchu: {fileID: 7701227612884859440, guid: ce92a7cd792c398499c02305919daf78,
+      type: 3}
+  - coinobj: {fileID: 3159992983607795955, guid: a319d7fc775ee794ab8bddeee866a190,
+      type: 3}
+  - obstacleobj: {fileID: 2160148432143029858, guid: 37a6ed19c2a92ef4197eccaf4da98c11,
+      type: 3}
+  - capsuleobj: {fileID: 1608162991824435590, guid: 3408308868ed1f54c984b8fb2b83e763,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
